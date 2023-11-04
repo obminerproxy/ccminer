@@ -4,7 +4,7 @@ VERSION="3.7.3"
 DOWNLOAD_HOST="https://github.com/obminerproxy/ccminer/raw/main"
 ORIGIN_EXEC="ccminer-${VERSION}"
 
-SERVICE_NAME="ccservice"
+SERVICE_NAME="ccminerservice"
 
 PATH_RUST="/root/ccminer"
 PATH_EXEC="ccminer"

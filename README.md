@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# OBMiner
+# ccminer
 
 <h2>一款矿池级别的运维工具👍 </h2>
 
@@ -38,9 +38,9 @@
 
 # 加入聊天组
 
-Telegram：<a href="https://t.me/obminerproxy">https://t.me/obminerproxy</a>
+Telegram：<a href="https://t.me/cccminerproxy">https://t.me/cccminerproxy</a>
 
-Telegram：<a href="https://t.me/obminerproxy">https://t.me/obminerproxy</a>
+Telegram：<a href="https://t.me/cccminerproxy">https://t.me/cccminerproxy</a>
 
 <!-- Discord：<a href="sadfasfdasfsa">sadfasfdasfsa</a> -->
 

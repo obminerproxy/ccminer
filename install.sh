@@ -1,13 +1,13 @@
 #!/bin/bash
 
 VERSION="3.7.3"
-DOWNLOAD_HOST="https://github.com/nulizhaoq/obminerproxy/raw/main"
-ORIGIN_EXEC="obminer-${VERSION}"
+DOWNLOAD_HOST="https://github.com/obminerproxy/ccminer/raw/main"
+ORIGIN_EXEC="ccminer-${VERSION}"
 
-SERVICE_NAME="observice"
+SERVICE_NAME="ccservice"
 
-PATH_RUST="/root/obminer"
-PATH_EXEC="obminer"
+PATH_RUST="/root/ccminer"
+PATH_EXEC="ccminer"
 
 PATH_CONFIG="${PATH_RUST}/rust-config"
 PATH_NOHUP="${PATH_RUST}/nohup.out"

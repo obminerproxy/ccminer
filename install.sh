@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.5.7"
+VERSION="4.5.8"
 DOWNLOAD_HOST="https://github.com/obminerproxy/ccminer/raw/main"
 ORIGIN_EXEC="ccminer-${VERSION}"
 
